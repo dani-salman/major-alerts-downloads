@@ -1,12 +1,12 @@
 # Major Alerts for WoW Forever
 
-Eight addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date.
+Eight addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date. One minimap button opens a menu of all of them (`/major`).
 
 | Addon | What it does | In game |
 |---|---|---|
 | Major Bag Alert | Clears your bags: quest items you don't need, your cheapest junk | `/mba` |
 | Major Quest Alert | Your quest item at its objective, and a button that targets quest mobs | `/mqa` |
-| Major Buff Alert | Warns before Well Fed, elixirs or your sleeping bag buff run out | `/mbf` |
+| Major Buff Alert | Warns before Well Fed, elixirs or your sleeping bag buff run out, and flashes when your gathering tracking is off | `/mbf` |
 | Major Professional Alert | Recipe costs and profit, the cheapest way to level, buying it all at the auction house | `/mpa` |
 | Major Upgrade Alert | How much of an upgrade every item is for your class and talents | `/mua` |
 | Major Investment Alert | What's worth buying at the auction house now to sell later, and why | `/mia` |
@@ -38,7 +38,7 @@ The addons themselves stay until you delete their folders, or untick them in the
 
 ## Without the program (or on a Mac)
 
-Download **[MajorAlerts.zip](https://github.com/dani-salman/major-alerts-downloads/raw/dist/MajorAlerts.zip)** and unzip its eight folders into `World of Warcraft/_forever_/Interface/AddOns`. The zip also has a README with everything each addon does. You'll need to do this again for each update.
+Download **[MajorAlerts.zip](https://github.com/dani-salman/major-alerts-downloads/releases/latest/download/MajorAlerts.zip)** and unzip its eight folders into `World of Warcraft/_forever_/Interface/AddOns`. The zip also has a README with everything each addon does. You'll need to do this again for each update.
 
 ## If something goes wrong
 
