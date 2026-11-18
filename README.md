@@ -1,6 +1,6 @@
 # Major Alerts for WoW Forever
 
-Nine addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date. One minimap button opens a menu of all of them (`/major`).
+Ten addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date. One minimap button opens a menu of all of them (`/major`).
 
 | Addon | What it does | In game |
 |---|---|---|
@@ -13,6 +13,7 @@ Nine addons for World of Warcraft: Forever, and a small program that installs th
 | Major Blacklist Alert | A blacklist shared by everyone with the addon, so you're warned before you group | `/mbl` |
 | Major Attune Alert | Which dungeons and raids you're not attuned to, with an arrow to follow | `/maa` |
 | Major Mob Alert | In dungeons: who to kill first and why, and one key that marks the pull | `/mma` |
+| Major Fish Alert | While you fish: what you're catching, gold an hour, and how fast your fishing skill climbs | `/mfa` |
 
 ## Install (Windows)
 
@@ -39,7 +40,7 @@ The addons themselves stay until you delete their folders, or untick them in the
 
 ## Without the program (or on a Mac)
 
-Download **[MajorAlerts.zip](https://github.com/dani-salman/major-alerts-downloads/releases/latest/download/MajorAlerts.zip)** and unzip its nine folders into `World of Warcraft/_forever_/Interface/AddOns`. The zip also has a README with everything each addon does. You'll need to do this again for each update.
+Download **[MajorAlerts.zip](https://github.com/dani-salman/major-alerts-downloads/releases/latest/download/MajorAlerts.zip)** and unzip its ten folders into `World of Warcraft/_forever_/Interface/AddOns`. The zip also has a README with everything each addon does. You'll need to do this again for each update.
 
 ## If something goes wrong
 
