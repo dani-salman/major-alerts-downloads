@@ -13,7 +13,7 @@ Ten addons for World of Warcraft: Forever, and a small program that installs the
 | Major Blacklist Alert | A blacklist shared by everyone with the addon, so you're warned before you group | `/mbl` |
 | Major Attune Alert | Which dungeons and raids you're not attuned to, with an arrow to follow | `/maa` |
 | Major Mob Alert | In dungeons: who to kill first and why, and one key that marks the pull | `/mma` |
-| Major Fish Alert | While you fish: what you're catching, gold an hour, and how fast your fishing skill climbs | `/mfa` |
+| Major Fish Alert | One key fishes for you (gear, lure, cast, reel in); what you're catching, gold an hour, how fast your skill climbs, and where and when every fish bites | `/mfa` |
 
 ## Install (Windows)
 
