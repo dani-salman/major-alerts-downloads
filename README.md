@@ -9,7 +9,7 @@ Ten addons for World of Warcraft: Forever, and a small program that installs the
 | Major Buff Alert | Warns before Well Fed, elixirs or your sleeping bag buff run out, and flashes when your gathering tracking is off | `/mbf` |
 | Major Professional Alert | Recipe costs and profit, the cheapest way to level, buying it all at the auction house | `/mpa` |
 | Major Upgrade Alert | How much of an upgrade every item is for your class and talents | `/mua` |
-| Major Investment Alert | What's worth buying at the auction house now to sell later, and why | `/mia` |
+| Major Investment Alert | What's worth buying at the auction house now to sell later, and why; a portfolio that counts what you buy anywhere at the auction house and what's in your bags and bank; price graphs, also while you sell | `/mia` |
 | Major Blacklist Alert | A blacklist shared by everyone with the addon, so you're warned before you group | `/mbl` |
 | Major Attune Alert | Which dungeons and raids you're not attuned to, with an arrow to follow | `/maa` |
 | Major Mob Alert | In dungeons: who to kill first and why, and one key that marks the pull | `/mma` |
