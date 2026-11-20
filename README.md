@@ -1,6 +1,6 @@
 # Major Alerts for WoW Forever
 
-Ten addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date. One minimap button opens a menu of all of them (`/major`).
+Eleven addons for World of Warcraft: Forever, and a small program that installs them and keeps them up to date. One minimap button opens a menu of all of them (`/major`).
 
 | Addon | What it does | In game |
 |---|---|---|
@@ -14,6 +14,7 @@ Ten addons for World of Warcraft: Forever, and a small program that installs the
 | Major Attune Alert | Which dungeons and raids you're not attuned to, with an arrow to follow | `/maa` |
 | Major Mob Alert | In dungeons: who to kill first and why, and one key that marks the pull | `/mma` |
 | Major Fish Alert | One key fishes for you (gear, the lure and fishing food the water needs, cast, reel in); a fishing atlas of every water's catches and gold an hour, marked on your map; what you're catching, gold an hour, how fast your skill climbs, and where and when every fish bites | `/mfa` |
+| Major Farm Alert | Where to farm for gold: the best farms for you at today's prices on your map, quiet ones and ones where another layer pays, and what you really make there | `/mfarm` |
 
 ## Install (Windows)
 
