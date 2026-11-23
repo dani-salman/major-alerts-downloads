@@ -8,7 +8,7 @@ Eleven addons for World of Warcraft: Forever, and a small program that installs 
 | Major Quest Alert | Your quest item at its objective, and a button that targets quest mobs | `/mqa` |
 | Major Buff Alert | Warns before Well Fed, elixirs or your sleeping bag buff run out, and flashes when your gathering tracking is off | `/mbf` |
 | Major Professional Alert | Recipe costs and profit, the cheapest way to level, buying it all at the auction house | `/mpa` |
-| Major Upgrade Alert | How much of an upgrade every item is for you, and pre-raid best in slot for every spec: what to get, where it drops, where to go first, and an alert when one drops (off-spec too) | `/mua` |
+| Major Upgrade Alert | How much of an upgrade every item is for you, and pre-raid best in slot for every spec: what to get, where it drops, where to go first, and an alert when one drops (off-spec too); the best, best-value and cheapest enchant for every piece you wear | `/mua` |
 | Major Investment Alert | What's worth buying at the auction house now to sell later, and why; a portfolio that counts what you buy anywhere at the auction house and what's in your bags and bank; price graphs, also while you sell | `/mia` |
 | Major Blacklist Alert | A blacklist shared by everyone with the addon, so you're warned before you group; blacklist anyone you played with, or everyone who left your group, in one click | `/mbl` |
 | Major Attune Alert | Which dungeons and raids you're not attuned to, with an arrow to follow | `/maa` |
