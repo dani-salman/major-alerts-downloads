@@ -5,7 +5,7 @@ Eleven addons for World of Warcraft: Forever, and a small program that installs 
 | Addon | What it does | In game |
 |---|---|---|
 | Major Bag Alert | Clears your bags: quest items you don't need, your cheapest junk | `/mba` |
-| Major Quest Alert | Your quest item at its objective, and a button that targets quest mobs | `/mqa` |
+| Major Quest Alert | Your quest item at its objective, a button that targets quest mobs, and a note when you pass a flight path you haven't learned | `/mqa` |
 | Major Buff Alert | Warns before Well Fed, elixirs or your sleeping bag buff run out, and flashes when your gathering tracking is off | `/mbf` |
 | Major Professional Alert | Recipe costs and profit, the cheapest way to level, buying it all at the auction house | `/mpa` |
 | Major Upgrade Alert | How much of an upgrade every item is for you, and pre-raid best in slot for every spec: what to get, where it drops, where to go first, and an alert when one drops (off-spec too); the best, best-value and cheapest enchant for every piece you wear | `/mua` |
